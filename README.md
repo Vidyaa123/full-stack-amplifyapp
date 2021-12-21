@@ -1,3 +1,38 @@
+# Book Music Lessons with your favourite teacher
+An online booking system for music students and teachers.
+
+### Purpose
+Typically students have to book a fixed time every week with the teachers to have their music lessons. Most of the time either the student or the teacher can't make it to the lessons. The teacher or student end up cancelling the lesson or risk losing money. Our calender schedules are not same every week. So why have music lessons at same time every week. If the lesson timings are flexible as book and go based on your availabilty it will be convenient for both teachers and students. 
+
+### Project Scope
+In this web app the student can view the list of teachers available and choose to book a lesson slot with them based on their availabilty.
+The teachers can update their calender every week based on their availability to conduct lessons.
+
+### Web app features
+
+#### For Teachers
+Update calender with availability (create, modify and delete slots)
+Book lesson slots on behalf of student
+Change lesson slots on behalf of student
+Email students
+
+#### For Students
+Search for teachers
+Check teacher availability calender
+Book lessons slots
+Modify the booked slots
+Cancel a booked slot
+
+
+### Technologies Used
+React
+Javascript
+AWS Amplify
+Node js
+
+### Instructions
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
