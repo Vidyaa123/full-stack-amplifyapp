@@ -1,0 +1,14 @@
+{
+  "resourceName": "fullstacks3",
+  "policyUUID": "7a7c19c9",
+  "bucketName": "fullstackamplifyappbucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
